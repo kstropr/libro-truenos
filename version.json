@@ -1,5 +1,5 @@
 {
-  "version": "v83",
-  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v83_AIRE_ANTE_TITULO_SEGURO.zip",
-  "notas": "El aire del ---/// ya no se pierde cuando el titulo queda apretado al pie de pagina"
+  "version": "v85",
+  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v85_ACTUALIZACION_DE_UN_SOLO_TOQUE.zip",
+  "notas": "Actualizacion de un solo toque: la app se cierra sola, se actualiza, se reabre sola y te muestra el resumen de la version nueva"
 }
