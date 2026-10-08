@@ -1,5 +1,5 @@
 {
-  "version": "v85",
-  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v85_ACTUALIZACION_DE_UN_SOLO_TOQUE.zip",
-  "notas": "Actualizacion de un solo toque: la app se cierra sola, se actualiza, se reabre sola y te muestra el resumen de la version nueva"
+  "version": "v88",
+  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v88_MARCA_DEL_EDITOR_AUTOMATICA.zip",
+  "notas": "La marca del editor (Otro parrafo, con o sin dos puntos) sale automatica en negrilla, sola en su renglon, y el texto siguiente arranca con sangria"
 }
