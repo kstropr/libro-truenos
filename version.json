@@ -1,0 +1,5 @@
+{
+  "version": "v99",
+  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v99_TITULOS_FALSOS_CORREGIDOS.zip",
+  "notas": "CORREGIDO: los parrafos escritos en MAYUSCULAS ya NO salen como titulo grande en el PDF.\nLa causa: el detector de autores creia 'autor' a cualquier linea que contuviera la palabra Branham, y frases del cuerpo como 'HERMANO BRANHAM ESTABA HABLANDO...' coronaban el parrafo anterior como titulo.\nAhora una linea de autor solo vale si es corta, empieza con Dr./Rev./William, no termina en dos puntos y no es un grito en mayusculas; y una linea que termina en punto/signo nunca es titulo.\nTus textos NO cambian: solo que ahora los parrafos quedan en el cuerpo, donde siempre debieron estar."
+}
