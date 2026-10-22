@@ -1,5 +1,0 @@
-{
-  "version": "v97",
-  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v97_NEGrita_POR_SELECCION.zip",
-  "notas": "1) EDITOR PDF - NEGRITA e ITALICA POR SELECCION: señale las palabras dentro de un bloque, toque B o I, y SOLO esas palabras cambian (como Word); el resto del bloque queda normal.\n2) El cambio se VE en la pantalla y queda asi en el PDF guardado (probado de punta a punta en un navegador real).\n3) ARREGLADO DE RAIZ: tocar la barra de herramientas ya no suelta el bloque seleccionado (por eso antes no aplicaba la negrita ni la italica).\n4) De la v96 que quizas no vio: doble clic sobre un bloque edita su texto, y hay cuadricula de fondo con medidas (1 cuadro chico = 10 pt aprox 3.5 mm)."
-}
