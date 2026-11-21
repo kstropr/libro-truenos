@@ -1,0 +1,5 @@
+{
+  "version": "v105",
+  "zip": "https://raw.githubusercontent.com/kstropr/libro-truenos/main/LibroPDF_App_FINAL_v105_BOLD_Y_DIGITAL_LIMPIO.zip",
+  "notas": "MODULO MENSAJE, 3 mejoras:\n1) El titulo de la conferencia sale en NEGRITA en el texto aunque haya diferencia de tildes (LLAMO tambien encuentra LLAMO con acento).\n2) El PDF DIGITAL queda LIMPIO, sin paginas de NOTAS ni hojas en blanco: esas van SOLO en el FOLLETO, donde la imposicion las necesita.\n3) Las paginas se llenan hasta el ultimo renglon que cabe: en el folleto los lados izquierdo y derecho quedan parejos (ya no hay renglones vacios al final de la pagina)."
+}
